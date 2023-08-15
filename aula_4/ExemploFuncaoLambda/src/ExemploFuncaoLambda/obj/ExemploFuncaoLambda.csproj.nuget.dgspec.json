@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/rafa/Desktop/aula-4/ExemploFuncaoLambda/src/ExemploFuncaoLambda/ExemploFuncaoLambda.csproj": {}
+  },
+  "projects": {
+    "/home/rafa/Desktop/aula-4/ExemploFuncaoLambda/src/ExemploFuncaoLambda/ExemploFuncaoLambda.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/rafa/Desktop/aula-4/ExemploFuncaoLambda/src/ExemploFuncaoLambda/ExemploFuncaoLambda.csproj",
+        "projectName": "ExemploFuncaoLambda",
+        "projectPath": "/home/rafa/Desktop/aula-4/ExemploFuncaoLambda/src/ExemploFuncaoLambda/ExemploFuncaoLambda.csproj",
+        "packagesPath": "/home/rafa/.nuget/packages/",
+        "outputPath": "/home/rafa/Desktop/aula-4/ExemploFuncaoLambda/src/ExemploFuncaoLambda/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/rafa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Amazon.Lambda.Core": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Amazon.Lambda.Serialization.SystemTextJson": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Crossgen2.linux-x64",
+              "version": "[6.0.20, 6.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.20, 6.0.20]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

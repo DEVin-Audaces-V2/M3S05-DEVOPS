@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "g+XhRmUlX/iMAauqAMxLVeW3c2zdX1QgsR6ubmivQ8+4AB/tzVXRYZBmpq8oDRtXti0isuQxEPPa/Et/3GuHng==",
+  "success": true,
+  "projectFilePath": "/home/rafa/Desktop/aula-4/ExemploFuncaoLambda/src/ExemploFuncaoLambda/ExemploFuncaoLambda.csproj",
+  "expectedPackageFiles": [
+    "/home/rafa/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
+    "/home/rafa/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.3.1/amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "/home/rafa/.nuget/packages/microsoft.netcore.app.ref/6.0.20/microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "/home/rafa/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.20/microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "/home/rafa/.nuget/packages/microsoft.netcore.app.crossgen2.linux-x64/6.0.20/microsoft.netcore.app.crossgen2.linux-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

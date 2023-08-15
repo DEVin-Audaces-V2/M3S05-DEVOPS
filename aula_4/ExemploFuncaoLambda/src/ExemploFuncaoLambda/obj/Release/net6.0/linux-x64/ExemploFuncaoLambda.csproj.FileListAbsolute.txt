@@ -1,0 +1,17 @@
+/home/rafa/Desktop/dsafafasfsaf/ExemploFuncaoLambda/src/ExemploFuncaoLambda/bin/Release/net6.0/linux-x64/ExemploFuncaoLambda.deps.json
+/home/rafa/Desktop/dsafafasfsaf/ExemploFuncaoLambda/src/ExemploFuncaoLambda/bin/Release/net6.0/linux-x64/ExemploFuncaoLambda.runtimeconfig.json
+/home/rafa/Desktop/dsafafasfsaf/ExemploFuncaoLambda/src/ExemploFuncaoLambda/bin/Release/net6.0/linux-x64/ExemploFuncaoLambda.dll
+/home/rafa/Desktop/dsafafasfsaf/ExemploFuncaoLambda/src/ExemploFuncaoLambda/bin/Release/net6.0/linux-x64/ExemploFuncaoLambda.pdb
+/home/rafa/Desktop/dsafafasfsaf/ExemploFuncaoLambda/src/ExemploFuncaoLambda/bin/Release/net6.0/linux-x64/Amazon.Lambda.Core.dll
+/home/rafa/Desktop/dsafafasfsaf/ExemploFuncaoLambda/src/ExemploFuncaoLambda/bin/Release/net6.0/linux-x64/Amazon.Lambda.Serialization.SystemTextJson.dll
+/home/rafa/Desktop/dsafafasfsaf/ExemploFuncaoLambda/src/ExemploFuncaoLambda/obj/Release/net6.0/linux-x64/ExemploFuncaoLambda.csproj.AssemblyReference.cache
+/home/rafa/Desktop/dsafafasfsaf/ExemploFuncaoLambda/src/ExemploFuncaoLambda/obj/Release/net6.0/linux-x64/ExemploFuncaoLambda.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafa/Desktop/dsafafasfsaf/ExemploFuncaoLambda/src/ExemploFuncaoLambda/obj/Release/net6.0/linux-x64/ExemploFuncaoLambda.AssemblyInfoInputs.cache
+/home/rafa/Desktop/dsafafasfsaf/ExemploFuncaoLambda/src/ExemploFuncaoLambda/obj/Release/net6.0/linux-x64/ExemploFuncaoLambda.AssemblyInfo.cs
+/home/rafa/Desktop/dsafafasfsaf/ExemploFuncaoLambda/src/ExemploFuncaoLambda/obj/Release/net6.0/linux-x64/ExemploFuncaoLambda.csproj.CoreCompileInputs.cache
+/home/rafa/Desktop/dsafafasfsaf/ExemploFuncaoLambda/src/ExemploFuncaoLambda/obj/Release/net6.0/linux-x64/ExemploFuncaoLambda.csproj.CopyComplete
+/home/rafa/Desktop/dsafafasfsaf/ExemploFuncaoLambda/src/ExemploFuncaoLambda/obj/Release/net6.0/linux-x64/ExemploFuncaoLambda.dll
+/home/rafa/Desktop/dsafafasfsaf/ExemploFuncaoLambda/src/ExemploFuncaoLambda/obj/Release/net6.0/linux-x64/refint/ExemploFuncaoLambda.dll
+/home/rafa/Desktop/dsafafasfsaf/ExemploFuncaoLambda/src/ExemploFuncaoLambda/obj/Release/net6.0/linux-x64/ExemploFuncaoLambda.pdb
+/home/rafa/Desktop/dsafafasfsaf/ExemploFuncaoLambda/src/ExemploFuncaoLambda/obj/Release/net6.0/linux-x64/ExemploFuncaoLambda.genruntimeconfig.cache
+/home/rafa/Desktop/dsafafasfsaf/ExemploFuncaoLambda/src/ExemploFuncaoLambda/obj/Release/net6.0/linux-x64/ref/ExemploFuncaoLambda.dll

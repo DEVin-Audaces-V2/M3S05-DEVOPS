@@ -1,0 +1,6 @@
+/home/rafa/Desktop/dsafafasfsaf/ExemploFuncaoLambda/src/ExemploFuncaoLambda/bin/Release/net6.0/publish/ExemploFuncaoLambda.deps.json
+/home/rafa/Desktop/dsafafasfsaf/ExemploFuncaoLambda/src/ExemploFuncaoLambda/bin/Release/net6.0/publish/ExemploFuncaoLambda.runtimeconfig.json
+/home/rafa/Desktop/dsafafasfsaf/ExemploFuncaoLambda/src/ExemploFuncaoLambda/bin/Release/net6.0/publish/ExemploFuncaoLambda.pdb
+/home/rafa/Desktop/dsafafasfsaf/ExemploFuncaoLambda/src/ExemploFuncaoLambda/bin/Release/net6.0/publish/Amazon.Lambda.Core.dll
+/home/rafa/Desktop/dsafafasfsaf/ExemploFuncaoLambda/src/ExemploFuncaoLambda/bin/Release/net6.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/home/rafa/Desktop/dsafafasfsaf/ExemploFuncaoLambda/src/ExemploFuncaoLambda/bin/Release/net6.0/publish/ExemploFuncaoLambda.dll
